@@ -1,0 +1,105 @@
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma
+$ git clone https://github.com/EmrahDURSUN/2DArray.git
+Cloning into '2DArray'...
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (4/4), done.
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma
+$ ls
+2DArray/
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma
+$ cd 2DArray/
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ ls
+README.md
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Try01.cs
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ git add .
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Try01.cs
+
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ git commit -m " Try 01 "
+[master ab4e4d5]  Try 01
+ 1 file changed, 48 insertions(+)
+ create mode 100644 Try01.cs
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ git push origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 676 bytes | 676.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/EmrahDURSUN/2DArray.git
+   3c2a46a..ab4e4d5  master -> master
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   Try01.cs
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$ history
+    1  git clone https://github.com/EmrahDURSUN/2DArray.git
+    2  ls
+    3  cd 2DArray/
+    4  ls
+    5  git status
+    6  git add
+    7  git add .
+    8  git status
+    9  git commit -m " Try 01 "
+   10  git push origin master
+   11  git status
+   12  git status
+   13  history
+
+emrah@EmrahWin10 MINGW64 ~/Desktop/Ma/2DArray (master)
+$

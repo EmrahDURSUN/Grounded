@@ -1,0 +1,13 @@
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\bin\Debug\netcoreapp3.1\GrouındCreaTOR.exe
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\bin\Debug\netcoreapp3.1\GrouındCreaTOR.deps.json
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\bin\Debug\netcoreapp3.1\GrouındCreaTOR.runtimeconfig.json
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\bin\Debug\netcoreapp3.1\GrouındCreaTOR.runtimeconfig.dev.json
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\bin\Debug\netcoreapp3.1\GrouındCreaTOR.dll
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\bin\Debug\netcoreapp3.1\GrouındCreaTOR.pdb
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\obj\Debug\netcoreapp3.1\GrouındCreaTOR.csprojAssemblyReference.cache
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\obj\Debug\netcoreapp3.1\GrouındCreaTOR.csproj.CoreCompileInputs.cache
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\obj\Debug\netcoreapp3.1\GrouındCreaTOR.AssemblyInfoInputs.cache
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\obj\Debug\netcoreapp3.1\GrouındCreaTOR.AssemblyInfo.cs
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\obj\Debug\netcoreapp3.1\GrouındCreaTOR.dll
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\obj\Debug\netcoreapp3.1\GrouındCreaTOR.pdb
+E:\A\P2\GrouındCreaTOR\GrouındCreaTOR\obj\Debug\netcoreapp3.1\GrouındCreaTOR.genruntimeconfig.cache
